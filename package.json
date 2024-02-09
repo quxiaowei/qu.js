@@ -1,0 +1,15 @@
+{
+  "name": "cli-qu",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "bin": {
+    "qu": "bin/qu.js"
+  },
+  "keywords": [],
+  "author": "quxw.work@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
